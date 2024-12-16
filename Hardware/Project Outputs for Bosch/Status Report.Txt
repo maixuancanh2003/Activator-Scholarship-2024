@@ -1,0 +1,33 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [Bosch.PrjPcb]
+   Generated File[Bosch_Copper_Signal_Top.gbr]
+   Generated File[Bosch_Copper_Signal_Bot.gbr]
+   Generated File[Bosch_Pads_Bot.gbr]
+   Generated File[Bosch_Pads_Top.gbr]
+   Generated File[Bosch_Legend_Bot.gbr]
+   Generated File[Bosch_Soldermask_Bot.gbr]
+   Generated File[Bosch_Paste_Bot.gbr]
+   Generated File[Bosch_Legend_Top.gbr]
+   Generated File[Bosch_Paste_Top.gbr]
+   Generated File[Bosch_Soldermask_Top.gbr]
+   Generated File[Bosch_Keep-out.gbr]
+   Generated File[Bosch_Mechanical_13.gbr]
+   Generated File[Bosch_Mechanical_29.gbr]
+   Generated File[Bosch_Mechanical_16.gbr]
+   Generated File[Bosch_Mechanical_1.gbr]
+   Generated File[Bosch_Mechanical_15.gbr]
+   Generated File[Bosch_Profile.gbr]
+   Generated File[Bosch_NPTH_Drill.gbr]
+   Generated File[Bosch_PTH_Drill.gbr]
+   Generated File[Bosch_Drawing_1.gbr]
+   Generated File[Bosch_Drillmap_1.gbr]
+   Generated File[Bosch.RUL]
+   Generated File[Bosch.EXTREP]
+   Generated File[Bosch.REP]
+
+
+Files Generated   : 24
+Documents Printed : 0
+
+Finished Output Generation At 2:38:58 PM On 05/12/2024
