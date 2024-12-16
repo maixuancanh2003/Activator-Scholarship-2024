@@ -30,7 +30,7 @@ Connect to the MQTT broker using the IP address provided to receive real-time up
   - MQTT Setup: ![MQTT Setup](Image\MQTT.png)
   - Results Display: ![Results Display](Image\RESULT.png)
   - Hardware: ![Top View](Image\TOP.png)
-
+I will publish it when i present to Bosch on 20th Dec,2024
 ## Contact
 For any questions or additional support, feel free to reach out:
 
