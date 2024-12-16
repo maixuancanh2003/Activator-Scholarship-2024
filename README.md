@@ -29,7 +29,7 @@ Connect to the MQTT broker using the IP address provided to receive real-time up
 - Images:
   - MQTT Setup: ![MQTT Setup](Image\MQTT.png)
   - Results Display: ![Results Display](Image\RESULT.png)
-  - Hardware: ![Top View](Image\TOP.png), ![Bottom View](Image\BOT.png)
+  - Hardware: ![Top View](Image\TOP.png)
 
 ## Contact
 For any questions or additional support, feel free to reach out:
