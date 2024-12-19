@@ -25,7 +25,7 @@ The system processes sensor data using a TensorFlow Keras model, `collision_dete
 Connect to the MQTT broker using the IP address provided to receive real-time updates on vehicle safety statuses. This allows for monitoring and further analysis of the V2V communication effectiveness.
 
 ## Resources
-- Video Demonstration: [Demo Video](Video/Demo.mp4)
+- Video Demonstration: [Demo Video](https://youtu.be/bap7aCe3fPU)
 - Images:
   - MQTT Setup: ![MQTT Setup](Image/MQTT.png)
   - Results Display: ![Results Display](Image/RESULT.png)
